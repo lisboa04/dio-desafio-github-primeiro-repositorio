@@ -1,1 +1,10 @@
-Códigos de Git importantes
+Códigos de Git importantes:
+
+Git init.
+Git clone.
+Git branch.
+Git checkout.
+Git status.
+Git diff.
+Git add.
+Git commit.
